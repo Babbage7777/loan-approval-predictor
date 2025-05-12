@@ -172,3 +172,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# System files
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Data files
+*.csv
+*.pkl
+instance/loan_history.db
+
+# Environment
+.env
+.vscode/
+
